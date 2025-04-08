@@ -6,7 +6,7 @@ Este projeto utiliza o **GPT4All** para interpretar e responder perguntas sobre 
 
 ## **📌 Como configurar o projeto para rodar localmente em sua máquina**
 
-### **1️⃣ Clonar o repositório**
+### **1️⃣ Clonar o repositório** 
 ```bash
 git clone https://github.com/ronierisonmaciel/llm.git
 cd llm
